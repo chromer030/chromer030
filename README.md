@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm Unix and Linux System administrator
-- 💻 I'm currently learning DevOps and designing Hybrid Cloud Architecture.
+- 💻 I'm Unix and Linux System Administrator
+- 💻 I'm currently profounding my DevOps knowledge and learning designing Hybrid Cloud Architecture.
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)&nbsp;
