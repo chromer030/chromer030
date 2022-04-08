@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm Unix and Linux Systems administrator
+- 💻 I'm Unix and Linux System administrator
 - 💻 I'm currently learning DevOps and designing Hybrid Cloud Architecture.
 
 ### 🛠 &nbsp;Tech Stack
