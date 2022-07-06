@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ray
+### Hi there 👋 I'm Ray
 
 <!--
 **chromer030/chromer030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm Unix and Linux System Administrator
-- 💻 I'm currently profounding my DevOps knowledge and learning to design Hybrid Cloud Architecture.
+- 💻 I'm a DevOps engineer.
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)&nbsp;
