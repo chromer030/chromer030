@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👨🏻‍ &nbsp;About Me
-- 💻 I'm a DevOps engineer.
+- 💻 I'm a dedicated DevOps engineer driven by a profound passion for Linux/Unix environments and Cloud technologies
 
 ### 🛠 &nbsp;Tech Stack
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)&nbsp;
